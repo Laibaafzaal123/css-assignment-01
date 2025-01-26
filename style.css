@@ -1,0 +1,98 @@
+#text1{
+    background-color:rgba(245, 245, 245, 0.641) ;
+    font-size: 20 px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    margin-bottom: 20px;
+    padding:5px ;
+}
+#text2{
+    background-color: rgb(5, 88, 171);
+    color:whitesmoke ;
+    margin:0px ;
+    padding:5px ;
+}
+ #text3{
+    background-color:rgb(17, 109, 202); ;
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px ;
+ }
+ #text4{
+    background-color:rgb(13, 126, 238); 
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }
+ #text5{
+    background-color:rgb(26, 133, 240);       
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }
+ #text6{
+    background-color: rgb(68, 137, 234);
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }
+ #text7{
+    background-color:rgb(79, 155, 248);
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }
+ #text8{
+    background-color:rgb(102, 166, 245);
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }
+ #text9{
+    background-color: rgb(18, 119, 18);
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }
+ #text10{
+    background-color:rgb(232, 157, 182) ;
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }
+ #text11{
+    background-color:rgb(227, 136, 166) ;
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }
+ #text12{
+    background-color:rgb(227, 123, 158) ;
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }  
+ #text13{
+    background-color:rgb(233, 122, 159) ;
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }
+ #text14{
+    background-color:rgb(231, 97, 142) ;
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }
+ #text15{
+    background-color:rgb(235, 68, 124) ;
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }
+ #text16{
+    background-color:rgb(233, 42, 105) ;
+    color:rgba(245, 245, 245, 0.959) ;
+    margin:0px;
+    padding:5px;
+ }
